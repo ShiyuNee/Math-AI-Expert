@@ -1,0 +1,1 @@
+This is the official repository for the 2nd place submission in Track 1-1: AUTOFORMALIZATION of the ICML 2024 challenges on Automated Math Reasoning!
